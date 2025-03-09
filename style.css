@@ -1,0 +1,77 @@
+.banner-h4{
+    color: #DF6951;
+}
+
+.banner-h1{
+    color: #181E4B;
+}
+
+.banner-p{
+    color: #5E6282;
+}
+
+.banner-span{
+    color: #686D77;
+}
+
+.banner-btn{
+    background-color: #F1A501;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.services-title{
+    color: #5E6282;
+}
+
+.services-h1{
+    font-family: Volkhov;
+}
+
+.selling{
+    border-radius: 20px;
+}
+
+.contact{
+    background-color: white;
+}
+
+.trip p{
+    color: #84829A;
+}
+
+.trip span{
+    color: #84829A;
+}
+
+.greece{
+    border-radius: 30px;
+}
+
+.people{
+    line-height: 2;
+    color: #5E6282;
+}
+
+.contact-btn{
+    background-color: #FF7D68;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+
+body{
+    font-family: Poppins;
+}
+
+.font-family{
+    font-family: Poppins;
+}
+
+.font-family a{
+    color: #5E6282;
+}
+
+.font-family p{
+    color: #5E6282;
+}
